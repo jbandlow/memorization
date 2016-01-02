@@ -1,0 +1,4 @@
+A Python tool for remembering stuff.
+
+This is WIP.  It depends on client_secret.json which I've dumped
+(privately) into Google Drive: https://drive.google.com/open?id=0B2vVqUnZDrPuSHVBbGUyNENwOEE
